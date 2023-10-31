@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **manasverma012345@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/uc?id=1DoVVqO9hMmjLnJ5c09tiBdEhLcc9tTGE](https://drive.google.com/uc?id=1DoVVqO9hMmjLnJ5c09tiBdEhLcc9tTGE)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Ngq0N6t5UlrvIsufQgr2Rnd0GEtdqT2B/view?usp=sharing](https://drive.google.com/file/d/1Ngq0N6t5UlrvIsufQgr2Rnd0GEtdqT2B/view?usp=sharing)
 
 - ⚡ Fun fact **As a student, I've mastered the art of juggling study sessions with spontaneous chai breaks.**
 
