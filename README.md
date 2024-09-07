@@ -1,21 +1,20 @@
 [![MasterHead](https://drive.google.com/uc?id=1ID3TKhtRJqCGuxPq1eMc1DZrAIgc7QxI)](https://drive.google.com/uc?id=1ID3TKhtRJqCGuxPq1eMc1DZrAIgc7QxI)
 <h1 align="center">Hi 👋, I'm Manas Verma</h1>
-<h3 align="center">I am a passionate backend developer with a strong command over Python Flask and Jinja 2, and I am currently expanding my expertise to include Node.js and Express.js</h3>
-
+<h3 align="center">I am a Software Developer passionate about backend development, with expertise in Node.js and Flask. I have strong experience with databases like MySQL, MongoDB, Firebase, and explore SQLite in personal projects. Additionally, I work as a System Software Engineer, focusing on IoT solutions and embedded systems, optimizing firmware for devices like ESP32 and Raspberry Pi.</h3>
 <img align="right" alt="Coding" width="400" src="https://drive.google.com/uc?id=1LBzIu7qnYNEQc86-Aedw1kE6vZ4sHtS7">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manasverma007&label=Profile%20views&color=0e75b6&style=flat" alt="manasverma007" /> </p>
 
-- 🔭 I’m currently working on **COLLAB 22**
+- 🔭 I’m currently working as a **System Software Engineer**
 
-- 🌱 I’m currently learning **Vue, Node, Express**
+- 🌱 I’m currently learning **MySql, NextJS**
 
 - 📫 How to reach me **manasverma012345@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1wtbR6wmRFGLty_LDkA5hOvBTsGQLaVOp/edit)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1sw9E9V7CrvNA_dQ5ADsS7lRzHjs6VwuQ/edit?usp=sharing&ouid=101298330698726163721&rtpof=true&sd=true)
 
-- ⚡ Fun fact **As a student, I've mastered the art of juggling study sessions with spontaneous chai breaks.**
+- ⚡ Fun fact **As a developer, I've mastered the art of juggling work sessions with spontaneous chai breaks.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
